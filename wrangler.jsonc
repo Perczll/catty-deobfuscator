@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "catty-deobfuscator",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "catty-deobfuscator-db",
+			"database_id": "e9b2735b-cdd9-4056-9e71-f00fcb694534"
+		}
+	]
+}
